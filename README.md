@@ -1,6 +1,6 @@
 # Faculty Advising Interface
 
-A responsive front-end interface designed to help faculty view and manage student advising schedules.
+A responsive front-end interface designed to help advising faculty view and manage student schedules.
 
 ## Overview
 
@@ -10,8 +10,6 @@ This repository focuses on the front-end interface and user experience.
 
 ## Features
 
-- Student schedule interface
-- Faculty dashboard
 - Schedule viewing and management UI
 - Responsive design
 - Form interfaces
@@ -44,9 +42,6 @@ Talk about what you learned regarding:
 ## Future Improvements
 
 - Reconnect the interface to a new backend
-- Implement authentication
-- Add database integration
-- Add schedule export functionality
 
 ## Author
 
