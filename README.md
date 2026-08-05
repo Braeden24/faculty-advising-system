@@ -1,6 +1,6 @@
-## Faculty Advising System
+## Faculty Advising Interface
 
-A full-stack web application designed to help advising faculty manage student schedules through a database.
+A front-end web interface designed to help advising faculty manage student schedules through a database. originally developed as part of a larger full-stack advising system.
 
 ## Features
 
