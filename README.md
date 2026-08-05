@@ -1,59 +1,52 @@
-## Faculty Advising Interface
+# Faculty Advising Interface
 
-A front-end web interface designed to help advising faculty manage student schedules through a database. originally developed as part of a larger full-stack advising system.
+A responsive front-end interface designed to help faculty view and manage student advising schedules.
+
+## Overview
+
+This project was originally developed as the front-end portion of a larger academic advising system. The original application included server-side functionality and database integration; however, the original server environment is no longer available.
+
+This repository focuses on the front-end interface and user experience.
 
 ## Features
 
-- Faculty authentication
-- Student schedule management
-- Create and edit schedules
-- Search student records
-- Export schedules
-- Secure database integration
-- Responsive interface
+- Student schedule interface
+- Faculty dashboard
+- Schedule viewing and management UI
+- Responsive design
+- Form interfaces
+- Interactive navigation
 
 ## Technologies
 
 - HTML
 - CSS
 - JavaScript
-- PHP
-- MySQL
 
 ## Screenshots
 
-_Add screenshots of the application here._
+_Add screenshots here._
 
-## Installation
+## Project Structure
 
-### Prerequisites
-
-- PHP
-- MySQL
-- Web server
-
-### Setup
-
-1. Clone the repository
-2. Configure the database
-3. Import the database schema
-4. Configure the application settings
-5. Start the development server
-
-## Usage
-
-Explain how someone can log in and use the application.
-
-## Future Improvements
-
-- Add additional user roles
-- Improve reporting
-- Add automated notifications
-- Expand testing
+Briefly explain the important folders/files if useful.
 
 ## What I Learned
 
-Describe the major technical skills and concepts you gained while developing this project.
+Talk about what you learned regarding:
+
+- Responsive web design
+- UI/UX
+- JavaScript
+- Working with forms
+- Designing interfaces for real-world applications
+
+## Future Improvements
+
+- Reconnect the interface to a new backend
+- Implement authentication
+- Add database integration
+- Add schedule export functionality
 
 ## Author
 
