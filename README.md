@@ -1,12 +1,12 @@
 ## Faculty Advising System
 
-A full-stack web application designed to help faculty manage student advising schedules through a centralized database.
+A full-stack web application designed to help advising faculty manage student schedules through a database.
 
 ## Features
 
 - Faculty authentication
 - Student schedule management
-- Create, edit, and delete schedules
+- Create and edit schedules
 - Search student records
 - Export schedules
 - Secure database integration
