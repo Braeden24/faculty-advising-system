@@ -4,9 +4,7 @@ A responsive front-end interface designed to help advising faculty view and mana
 
 ## Overview
 
-This project was originally developed as the front-end portion of a larger academic advising system. The original application included server-side functionality and database integration; however, the original server environment is no longer available.
 
-This repository focuses on the front-end interface and user experience.
 
 ## Features
 
@@ -31,17 +29,17 @@ Briefly explain the important folders/files if useful.
 
 ## What I Learned
 
-Talk about what you learned regarding:
+# Responsive web design
+This project gave me more experience designing and creating interfaces that need to work across different screen sizes, but also be accessible to both faculty and students alike. I learned that responsive design is not just about making websites fit on smaller screens, but also about keeping the information organized in a way that its clear to all users, regardless of their aptitude with technology
 
-- - Responsive web design
-- UI/UX
-- JavaScript
-- Working with forms
-- Designing interfaces for real-world applications
+# Database Intergration
+This project was my first look into how websites communicate with a backend database and how that can take a website so much further. We stored, retrieved and updated student information though the database, which give me a strong foundation for implementing features such as user accounts and persistent data in future projects
 
-## Future Improvements
+# Client Collaboration
+This was one of the first projects where I worked closely with a client and had to design around their needs. Rather than having complete creative freedom, we had to make sure that the interface and functionallity met their expectations. This gave me a deeper understanding of the design process, including gathering feedback, making revisions and designing around the needs of the users.
 
-- Reconnect the interface to a new backend
+# Backend and API Development
+Working on this project introduced me to building and working with REST API endpoints. I learned how routes can be used to handle actions such as logging a user in, retreiving student and class information, and saving changes to student records. this helped me understand how back-and and front-end programs work together
 
 ## Author
 
