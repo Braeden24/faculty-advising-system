@@ -33,7 +33,7 @@ Briefly explain the important folders/files if useful.
 
 Talk about what you learned regarding:
 
-- Responsive web design
+- - Responsive web design
 - UI/UX
 - JavaScript
 - Working with forms
