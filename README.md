@@ -1,6 +1,6 @@
 # Faculty Advising Interface
 
-A responsive front-end interface designed to help advising faculty view and manage student schedules.
+A responsive full-stack web app designed to help advising faculty view and manage student schedules.
 
 ## Overview
 
